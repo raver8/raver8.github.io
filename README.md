@@ -1,8 +1,3 @@
-title: Victor Karamalis
-#logo:/ assets/img/victor_2024.pmg
-description: Research Scientist
-show_downloads:true
-theme: jekyll-theme-minimal
 
 Hi,
 
