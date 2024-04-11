@@ -1,10 +1,7 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 remote_theme: pages-themes/architect@v0.2.0
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: [The title of your site]
-description: [A short description of your site's purpose]
 plugins:
+  - jekyll-remote-theme
 
 
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
