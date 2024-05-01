@@ -1,7 +1,11 @@
 
 Hi,
 
-This is my portfolio page where I list all my work from my previous academic and allowed work examples. 
+This is my portfolio page.
+
+[These are some of my certificates](https://www.credly.com/users/victor-karamalis/badges)
+
+I list all my work from my previous academic and allowed work examples. 
 
 
 [Graduate Courses Taught in Academia](https://sites.google.com/view/professorvictorkaramalis/home)
