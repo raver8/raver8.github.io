@@ -9,7 +9,7 @@ The following are course examples that I have taught in Academia:
 
 [Graduate Courses Taught in Academia](https://sites.google.com/view/professorvictorkaramalis/home)
 
-[Informatics Summer Research](https://drive.google.com/file/d/1NIdBAQamyiQ9kURLwXEMlUVIWjF7o4R9/view?usp=drive_link)
+[Undergraduate Summer 2023 Informatics](https://drive.google.com/file/d/1NIdBAQamyiQ9kURLwXEMlUVIWjF7o4R9/view?usp=drive_link)
 
 [Machine Learning Chemical Structures](https://github.com/raver8/ML_chemical)
 
