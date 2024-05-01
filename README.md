@@ -11,6 +11,8 @@ The following are course examples that I have taught in Academia:
 
 [Informatics Summer Research](https://drive.google.com/file/d/1NIdBAQamyiQ9kURLwXEMlUVIWjF7o4R9/view?usp=drive_link)
 
+[Machine Learning Chemical Structures](https://github.com/raver8/ML_chemical)
+
 Professional Examples:
 
 [Examples of Past Product & Project Management Examples](https://drive.google.com/drive/folders/0BxSOSNo1SM7MTG1ETWF4OXVHTjQ?resourcekey=0-FsAQ3HGz1hhnb2KGmhbb5w&usp=drive_link)
