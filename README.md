@@ -9,6 +9,8 @@ I list all my work from my previous academic and allowed work examples.
 
 [Graduate Courses Taught in Academia](https://sites.google.com/view/professorvictorkaramalis/home)
 
+[Informatics Summer Research](https://drive.google.com/file/d/1NIdBAQamyiQ9kURLwXEMlUVIWjF7o4R9/view?usp=drive_link)
+
 Examples on Video:
 
 [Docker & Registry](https://youtu.be/cg2aKGrSLcg?si=4Nj_d6DMz5NTQa7B)
