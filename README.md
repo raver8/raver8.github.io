@@ -7,7 +7,6 @@ This is my portfolio page.  Click back on your browser to return to this page.
 
 I list all my work from my previous academic and allowed work examples. 
 
-
 [Graduate Courses Taught in Academia](https://sites.google.com/view/professorvictorkaramalis/home)
 
 Examples on Video:
@@ -18,4 +17,4 @@ Examples on Video:
 
 Examples of Python Programming:
 
-[FLASK WEB DEVELOPMENT at HTTPS://safe-lle.org](https://drive.google.com/file/d/1iyrhAtsQx4dUfj_dyaoOKe_oxo0_mgZI/view?usp=drive_link)
+[FLASK WEB DEVELOPMENT](https://drive.google.com/file/d/1iyrhAtsQx4dUfj_dyaoOKe_oxo0_mgZI/view?usp=drive_link)[ SAFE Liquid Liquid Extraction](https://safe-lle.org)
