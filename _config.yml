@@ -1,6 +1,7 @@
 title: Victor Karamalis
 logo: assets/IMG20240304175638.jpg
-description: Email - victor@karamalis.me , T - (954)707-7545
-#show downloads: false
+description: Email - victor@karamalis.me
+description: Tel. - (954)707-7545
+#show downloads: true
 theme: jekyll-theme-minimal
 
