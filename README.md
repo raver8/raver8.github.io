@@ -7,9 +7,14 @@ This is my portfolio page.  Click back on your browser to return to this page.
 
 The following are course examples that I have taught in Academia:
 
-[Graduate Courses Taught in Academia](https://sites.google.com/view/professorvictorkaramalis/home)
+Graduate:
+[Graduate LEvel COurses Taught in Academia](https://sites.google.com/view/professorvictorkaramalis/home)
+
+Undergraduate:
 
 [Undergraduate Summer 2023 Informatics](https://drive.google.com/file/d/1NIdBAQamyiQ9kURLwXEMlUVIWjF7o4R9/view?usp=drive_link)
+
+[Liquid Liquid Extractions to GITHUB Video:](https://youtu.be/xOdiLc_ESUM)
 
 [Machine Learning Chemical Structures](https://github.com/raver8/ML_chemical)
 
