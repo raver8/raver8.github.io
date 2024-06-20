@@ -9,7 +9,7 @@ The following are course examples that I have taught in Academia:
 
 Graduate:
 
-[Graduate LEvel Courses Taught in Academia](https://sites.google.com/view/professorvictorkaramalis/home)
+[Graduate Level Courses Taught in Academia](https://sites.google.com/view/professorvictorkaramalis/home)
 
 Undergraduate:
 
