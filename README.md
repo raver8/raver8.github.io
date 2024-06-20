@@ -8,7 +8,8 @@ This is my portfolio page.  Click back on your browser to return to this page.
 The following are course examples that I have taught in Academia:
 
 Graduate:
-[Graduate LEvel COurses Taught in Academia](https://sites.google.com/view/professorvictorkaramalis/home)
+
+[Graduate LEvel Courses Taught in Academia](https://sites.google.com/view/professorvictorkaramalis/home)
 
 Undergraduate:
 
