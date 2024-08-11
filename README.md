@@ -32,3 +32,7 @@ Examples of Python Programming:
 [FLASK WEB DEVELOPMENT:](https://drive.google.com/file/d/1iyrhAtsQx4dUfj_dyaoOKe_oxo0_mgZI/view?usp=drive_link) and [Link to SAFE Liquid Liquid Extraction](https://app.newrun.development.svc.spin.nersc.org/))
 
 [A Walk through on the Original LLE Website hosted by U.S. DoE.](https://youtu.be/vnlN8itD85k)  
+
+AWS IoT DATA ARCHITECTURE 
+[Example](https://drive.google.com/file/d/1NwtlxY2bmPJ5jsNUJ4BtVKmOTWQlbz3r/view?usp=drive_link)
+
