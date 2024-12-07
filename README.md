@@ -33,7 +33,8 @@ Examples of Python Programming:
 
 [A Walk through on the Original LLE Website hosted by U.S. DoE.](https://youtu.be/vnlN8itD85k)  
 
-AWS IoT DATA ARCHITECTURE 
+AWS IoT DATA ARCHITECTURE:
+
 [Example](https://drive.google.com/file/d/1NwtlxY2bmPJ5jsNUJ4BtVKmOTWQlbz3r/view?usp=drive_link)
 
 Past Talks:
