@@ -36,3 +36,11 @@ Examples of Python Programming:
 AWS IoT DATA ARCHITECTURE 
 [Example](https://drive.google.com/file/d/1NwtlxY2bmPJ5jsNUJ4BtVKmOTWQlbz3r/view?usp=drive_link)
 
+Past Talks:
+
+[IIoT Security](https://drive.google.com/file/d/1vS5sPsAZVrvSqjSLiL-LKliqZRnfcNum/view?usp=sharing)
+
+[Microsoft Data Lake Talk](https://drive.google.com/file/d/15P2cPgTbZYxG3f5Me9Ond4QYcYU81Q03/view?usp=sharing)
+
+[NIST Cybersecurity](https://drive.google.com/file/d/1R4IgkB1Fxmj0BafzzGhKGVU_0hzisP9Z/view?usp=sharing)
+
