@@ -41,5 +41,5 @@ Past Talks:
 
 [Microsoft Data Lake Talk](https://drive.google.com/file/d/15P2cPgTbZYxG3f5Me9Ond4QYcYU81Q03/view?usp=sharing)
 
-[NIST Cybersecurity](https://drive.google.com/file/d/1R4IgkB1Fxmj0BafzzGhKGVU_0hzisP9Z/view?usp=sharing)[ for Smart Grids]
+[NIST Cybersecurity](https://drive.google.com/file/d/1R4IgkB1Fxmj0BafzzGhKGVU_0hzisP9Z/view?usp=sharing) [ for Smart Grids]
 
