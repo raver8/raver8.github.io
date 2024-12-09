@@ -39,9 +39,9 @@ AWS IoT DATA ARCHITECTURE:
 
 Past Talks:
 
-[IIoT Security](https://drive.google.com/file/d/1vS5sPsAZVrvSqjSLiL-LKliqZRnfcNum/view?usp=sharing)
+[IIoT Security](https://drive.google.com/file/d/1vS5sPsAZVrvSqjSLiL-LKliqZRnfcNum/view?usp=sharing[ given at University of Central Florida]
 
 [Microsoft Data Lake Talk](https://drive.google.com/file/d/15P2cPgTbZYxG3f5Me9Ond4QYcYU81Q03/view?usp=sharing)
 
-[NIST Cybersecurity](https://drive.google.com/file/d/1R4IgkB1Fxmj0BafzzGhKGVU_0hzisP9Z/view?usp=sharing)
+[NIST Cybersecurity](https://drive.google.com/file/d/1R4IgkB1Fxmj0BafzzGhKGVU_0hzisP9Z/view?usp=sharing)[ for Smart Grids]
 
