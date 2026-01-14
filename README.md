@@ -3,7 +3,7 @@ Hi,
 
 This is my portfolio page.  Click back on your browser to return to this page. 
 
-[First of All, this is my ORCID Page for all things academic research:](https://orcid.org/0000-0002-9596-9919).  
+[First of All, this is my ORCID Page for all things academic research:](https://orcid.org/0000-0002-9596-9919)  
 
 [These are some of my certificates](https://www.credly.com/users/victor-karamalis/badges)
 
