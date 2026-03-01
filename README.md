@@ -39,7 +39,7 @@ Applying ML techniques to analyze and classify chemical structures. Built with P
 
 ### ⚗️ Liquid-Liquid Extraction (LLE) Web Application
 A Flask-based web application for safe liquid-liquid extraction calculations, hosted on U.S. DoE infrastructure (NERSC).  
-- 🔗 [SAFE LLE Web App (NERSC)](https://app.newrun.development.svc.spin.nersc.org/)  
+- 🔗 [SAFE LLE Web App (NERSC)](https://safe.lanl.gov)  
 - 🎬 [LLE to GitHub — Video Walkthrough](https://youtu.be/xOdiLc_ESUM)  
 - 🎬 [Original LLE Website (U.S. DoE) — Walkthrough](https://youtu.be/vnlN8itD85k)
 
