@@ -1,4 +1,4 @@
-# Victor Karamalis — Research Scientist | Data Scientist | Educator
+# Victor Karamalis — Research Scientist | Machine Learning | Platform Engineering | Educator
 
 **Contact:** victor@karamalis.me  
 **GitHub:** [github.com/raver8](https://github.com/raver8)  
